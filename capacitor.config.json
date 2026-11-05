@@ -1,0 +1,7 @@
+{
+  "appId": "it.gianmarco.mucchiodigatti",
+  "appName": "Mucchio di Gatti",
+  "webDir": "www",
+  "backgroundColor": "#cfdccb",
+  "android": { "allowMixedContent": false }
+}
