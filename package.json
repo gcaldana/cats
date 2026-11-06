@@ -2,15 +2,21 @@
   "name": "mucchio-di-gatti",
   "version": "1.0.0",
   "private": true,
-  "description": "Mucchio di Gatti - gioco per Android",
+  "description": "Mucchio di Gatti - gioco per Android e iPhone",
   "scripts": {
     "prepare-web": "node scripts/prepare-web.js"
   },
   "dependencies": {
     "@capacitor/android": "^7.0.0",
     "@capacitor/core": "^7.0.0",
+    "@capacitor/haptics": "^7.0.0",
+    "@capacitor/ios": "^7.0.0",
+    "@capacitor/preferences": "^7.0.0",
+    "@capacitor/status-bar": "^7.0.0",
     "@fontsource/gluten": "^5.0.0",
-    "@fontsource/nunito": "^5.0.0"
+    "@fontsource/nunito": "^5.0.0",
+    "@openforge/capacitor-game-connect": "latest",
+    "cordova-plugin-purchase": "^13.0.0"
   },
   "devDependencies": {
     "@capacitor/assets": "^3.0.5",

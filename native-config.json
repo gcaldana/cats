@@ -1,0 +1,6 @@
+{
+  "_spiegazione": "Classifiche Google Play Giochi. playGamesAppId: il numero del progetto (Play Console > Play Games Services > Configurazione, 'ID progetto'). androidLeaderboardId: l'ID della classifica del record normale; androidChallengeLeaderboardId: l'ID della classifica delle sfide (Play Console > Play Games Services > Classifiche, iniziano con CgkI). Finche' playGamesAppId e' vuoto le classifiche su Android restano spente.",
+  "playGamesAppId": "",
+  "androidLeaderboardId": "",
+  "androidChallengeLeaderboardId": ""
+}

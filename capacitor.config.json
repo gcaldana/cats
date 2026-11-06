@@ -2,6 +2,11 @@
   "appId": "it.gianmarco.mucchiodigatti",
   "appName": "Mucchio di Gatti",
   "webDir": "www",
-  "backgroundColor": "#cfdccb",
-  "android": { "allowMixedContent": false }
+  "backgroundColor": "#c6ddef",
+  "android": {
+    "allowMixedContent": false
+  },
+  "ios": {
+    "contentInset": "never"
+  }
 }
